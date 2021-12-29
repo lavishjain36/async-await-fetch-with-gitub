@@ -1,4 +1,4 @@
-//select both the target
+//select both the target with html elements
 const fetchDataBtn=document.querySelector('#fetchdata');
 const result=document.querySelector('#result');
 
